@@ -27,6 +27,6 @@ test
 
 
 
-> Source by: (anonymized by author request) <br /> 
-> Video review [Code Review](https://www.youtube.com/watch?v=JS-AdMxIfew) 
-> Youtube: [ApplicableProgramming](https://www.youtube.com/c/ApplicableProgramming/)
+ > Source by: (anonymized by author request) <br /> 
+ > Video review [Code Review](https://www.youtube.com/watch?v=JS-AdMxIfew) 
+ > Youtube: [ApplicableProgramming](https://www.youtube.com/c/ApplicableProgramming/)
